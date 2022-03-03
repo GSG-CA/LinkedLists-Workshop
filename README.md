@@ -163,3 +163,9 @@ There are also other types of linked lists like Doubly, and Circular linked list
 Here's a great [website](https://visualgo.net/en) that animates several data structures and some of their operations to help you under them better.
 
 **Hopefully this gives you a place to start!**
+
+### Exercise
+
+implement the doubly linked list and the reverse method in singaly linked list
+
+[Linked list Exercise](https://github.com/GSG-CA/LinkedList-Exercise)
